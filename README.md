@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Santy21g.Santy21g&"  />
+</div>
+
+###
+
 <h1 align="center">Buenas, soy Santiago González 👋</h1>
 
 ###
@@ -40,6 +46,16 @@
 
 ###
 
-<h3 align="left">🔥   Mis proyectos :</h3>
+<h3 align="left">🔥   Mis estadísticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Santy21g&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Santy21g/Santy21g/output/snake.svg" alt="Snake animation" />
 
 ###
