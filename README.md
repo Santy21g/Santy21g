@@ -24,43 +24,69 @@
 
 ###
 
-<h1 align="center">Buenas, soy Santiago González 👋</h1>
+<h1 align="center">Santiago González</h1>
+<h3 align="center">Estudiante de Ingeniería Informática | Pasante Soporte Técnico Racing Club | Desarrollo | Análisis de Datos </h3>
+
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mí</h3>
+<h3 align="left"> Perfil Profesional </h3>
 
 ###
 
-<p align="left">Soy de Buenos Aires, Argenina <br><br>- 🔭 Estoy estudiando ingeniería informática en la UADE<br>- 📚 Aprendo de manera autodidacta diferentes lenguajes y tecnologías<br>- ⚡ En mi tiempo libre me gusta crear proyectos para medir mis conocimientos en base a lo que aprendo</p>
+<p>
+Estudiante de Ingeniería Informática con orientación al desarrollo backend, análisis de datos y fuerte interés en Inteligencia Artificial.
+</p>
 
-###
+<p>
+Actualmente me desempeño como <strong>Pasante de Soporte Técnico en Racing Club</strong>, participando en la resolución de incidencias, soporte a usuarios internos y mantenimiento de infraestructura tecnológica.
+</p>
 
-<h3 align="left">🛠 Lenguajes y herramientas</h3>
+<p>
+Me encuentro realizando un <strong>curso de Análisis de Datos</strong> para profundizar mis conocimientos en manipulación, interpretación y visualización de información.
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<h3>Experiencia Profesional</h3>
+
+<p><strong>Pasante de Soporte Técnico – Racing Club</strong></p>
+<ul>
+  <li>Soporte técnico a usuarios internos</li>
+  <li>Diagnóstico y resolución de incidencias de hardware y software</li>
+  <li>Configuración y mantenimiento de equipos</li>
+  <li>Asistencia básica en redes y sistemas</li>
+</ul>
+
+---
+
+<h3>Formación</h3>
+
+<ul>
+  <li>Ingeniería Informática – UADE (En curso)</li>
+  <li>Curso de Análisis de Datos (En curso)</li>
+</ul>
+
+---
+
+<h3>Tecnologías y Herramientas</h3>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
 
-###
+---
 
-<h3 align="left">🔥   Mis estadísticas:</h3>
+<h3>Estadísticas</h3>
 
-###
-
-
-  <img src="https://streak-stats.demolab.com?user=Santy21g&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-
-###
+<img src="https://streak-stats.demolab.com?user=Santy21g&theme=dark&hide_border=true" height="200"/>
 
 <img src="https://raw.githubusercontent.com/Santy21g/Santy21g/output/snake.svg" alt="Snake animation" />
-
-###
