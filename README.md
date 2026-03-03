@@ -90,7 +90,7 @@ Me encuentro realizando un <strong>curso de Análisis de Datos</strong> para pro
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/>
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40"/>
 </div>
